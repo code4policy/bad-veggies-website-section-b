@@ -1,10 +1,11 @@
-Vegetable, Length, Color
+Vegetable, Length("inches"), Color
 Potatooo,6, White
 Corn,4, Yellow
 Pineapple,9, Yellow
 Tomato,6, Red
 Carrot,6, Orange
-Roootabeaagaa,13, Neon Blue
+Roootabeaagaa,13, Yellow-Green
 શું થઈ રહ્યું છે?, પંદર, કેસર રંગ
-Broccoli,8, Silver
+Broccoli,8, Green
 Apple,5,Red
+Pizza,2,Margherita
