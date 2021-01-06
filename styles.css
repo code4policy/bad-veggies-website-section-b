@@ -1,13 +1,17 @@
 html {
-	background-color: blue;
+	background-color: navy;
 }
 
 body {
-	background: green;
-	width: 50%;
+	background: beige;
+	width: 75%;
 	margin: 10px auto;
 	padding: 10px;
 
+}
+
+h1 {
+	font: 32px sans-serif;
 }
 
 table {
