@@ -22,4 +22,27 @@ table {
 td {
 	border: 1px black solid;
 	padding: 5px;
+
 }
+
+/* Target the h1 element containing "Dhrumil's Simple Website" */
+h1 {
+  text-transform: capitalize;
+}
+
+/* Target the h4 element containing the date and "by: Somebody" */
+h4 {
+  text-transform: capitalize;
+}
+
+/* Target the paragraph that mentions "Dhrumil's GitHub lesson" */
+p:contains('Dhrumil\'s GitHub lesson') {
+  text-transform: capitalize;
+}
+
+/* Target the paragraph that mentions "pOtaYToes" */
+p:contains('pOtaYToes') {
+  text-transform: capitalize;
+}
+
+
