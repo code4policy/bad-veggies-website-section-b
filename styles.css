@@ -1,5 +1,8 @@
 html {
-	background-color: gray;
+	background-image: url(https://assets.stickpng.com/images/5842f68fa6515b1e0ad75b22.png), linear-gradient(#a51c30, #a51c30);
+    background-position: top left, top left;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 250px 250px, auto;
 }
 
 body {
@@ -19,7 +22,10 @@ table {
 td {
 	border: 1px black solid;
 	padding: 5px;
-}/* Target the h1 element containing "Dhrumil's Simple Website" */
+
+}
+
+/* Target the h1 element containing "Dhrumil's Simple Website" */
 h1 {
   text-transform: capitalize;
 }
@@ -39,4 +45,4 @@ p:contains('pOtaYToes') {
   text-transform: capitalize;
 }
 
-/* Since JavaScript is in a comment, it can't be targeted with CSS */
+
