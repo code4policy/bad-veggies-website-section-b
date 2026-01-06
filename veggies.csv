@@ -1,4 +1,4 @@
-Vegetable, Length, Color
+Vegetable, Length("inches"), Color
 Potato,6, White
 Corn,4, Yellow
 Pineapple,9, Yellow
@@ -9,4 +9,5 @@ Roootabeaagaa,13, Neon Blue
 શું થઈ રહ્યું છે?, પંદર, કેસર રંગ
 Broccoli,8, Silver
 Apple,5,Red
+
 
