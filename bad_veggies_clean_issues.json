@@ -3,7 +3,6 @@
     "assignees": [],
     "body": "Honestly, I've never seen a rutabaga. I've heard the word, but I've never seen one. I don't know what color they are and I think I spelled it wrong on the website. Can someone handle the rutabaga issue?",
     "labels": [],
-    "number": 120,
     "title": "Fix rutabaga color"
   },
   {
@@ -17,84 +16,72 @@
     ],
     "body": "The website is so boring and there is no image. Can someone please put one in? We only have room for one image in this article, what should it be? \r\n\r\nThis issue may need to be tackled by someone who already knows a bit of HTML.",
     "labels": [],
-    "number": 75,
     "title": "I wish there was an image"
   },
   {
     "assignees": [],
     "body": "Some of the vegetables are mis-spelled. This ticket is about identifying which ones are misspelled and then fixing them.",
     "labels": [],
-    "number": 100,
     "title": "Fix vegetable misspellings"
   },
   {
     "assignees": [],
     "body": "",
     "labels": [],
-    "number": 96,
     "title": "Specify that the website is a demo"
   },
   {
     "assignees": [],
     "body": "Let's improve the paragraph about potatoes. It isn't very informative. What should we add to it?",
     "labels": [],
-    "number": 101,
     "title": "potato paragraph"
   },
   {
     "assignees": [],
     "body": "The paragraph that starts with \"This is a pretend article about vegetables\" has a lot of errors in it. Can someone please help? Thanks!!!!!!",
     "labels": [],
-    "number": 140,
     "title": "copyedit intro paragraph"
   },
   {
     "assignees": [],
     "body": "Broccoli isn't silver! At least I don't think so. What color is broccoli again?",
     "labels": [],
-    "number": 121,
     "title": "Fix broccoli color"
   },
   {
     "assignees": [],
     "body": "That's the paragraph that begins with \"in conclusion\". What should we talk about in the conclusion?",
     "labels": [],
-    "number": 126,
     "title": "Improve the conclusion"
   },
   {
     "assignees": [],
     "body": "Improve the copy on the carrots paragraph. Don't modify the source for the link though, that's a separate ticket (#14).\r\n\r\nBesides the source we link out to, how can we improve the copy on this  paragraph?",
     "labels": [],
-    "number": 127,
     "title": "Improve carrot copy"
   },
   {
     "assignees": [],
     "body": "Update the header of the table from `Length` to `Length(\"inches\")` or something to that effect.",
     "labels": [],
-    "number": 107,
     "title": "Add a unit to the length on table"
   },
   {
     "assignees": [],
     "body": "There is a misspelling of potato ",
     "labels": [],
-    "number": 112,
     "title": "Edits on Veggies"
   },
   {
     "assignees": [],
     "body": "We should remove the paragraph about gym socks right? I don't think that belongs in an article about vegetables. What do you think team? \r\n\r\nBut don't remove them from the table, that's a separate ticket (#21). This ticket is only about the paragraph.",
     "labels": [],
-    "number": 122,
     "title": "remove paragraph about gym socks"
   },
   {
     "assignees": [],
     "body": "Let's remove the fruits from the table. Is a tomato a fruit? Should we remove it? ",
     "labels": [],
-    "number": 102,
     "title": "remove fruits"
   }
 ]
