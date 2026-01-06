@@ -1,3 +1,5 @@
+// wow why didn't we use JQUERY!?!????
+
 d3.text("veggies.csv", function(data) {
     var parsedCSV = d3.csv.parseRows(data);
 
