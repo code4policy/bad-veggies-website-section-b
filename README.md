@@ -1,5 +1,7 @@
 # Bad Veggies Website
 
+**⚠️ DEMO WEBSITE - FOR TEACHING PURPOSES ONLY ⚠️**
+
 This repository contains code for a really bad error-ridden simple website about vegetables:
 
 https://code4policy.github.io/bad-veggies-website-section-b/
